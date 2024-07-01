@@ -1,0 +1,963 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: border-box;
+}
+
+/* --------Navbar........ */
+.navbar {
+    background-color: #0f1111;
+    height: 4.5vw;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: Arial;
+
+}
+
+/* -------hover------- */
+.border {
+    border: 2px solid transparent;
+}
+
+.border :hover {
+    border: 1.5px solid white;
+}
+
+/* -----Box1----- */
+
+.Box-1 {
+    width: 6.31rem;
+    height: 3.2rem;
+    cursor: pointer;
+
+}
+
+.logo {
+    background-image: url(img/amazon_logo.png);
+    background-size: cover;
+    width: 6.31rem;
+    height: 3.2rem;
+}
+
+
+
+/* -----Box2----- */
+
+.Box-2 {
+    width: 5rem;
+    height: 3.2rem;
+    cursor: pointer;
+}
+
+.line-1 {
+    color: #ccc;
+    font-size: .75rem;
+    padding-top: .5rem;
+    padding-left: 1rem;
+
+}
+
+.map-icon {
+    color: #fff;
+    display: flex;
+}
+
+.line-2 {
+    color: #fff;
+    font-size: .95rem;
+    padding-left: .2rem;
+}
+
+/* -----Box3----- */
+
+.Box-3 {
+    display: flex;
+
+}
+
+.Z-Select {
+    width: 3rem;
+    height: 2.5rem;
+    border: none;
+    text-align: center;
+    border-top-left-radius: .3rem;
+    border-bottom-left-radius: .3rem;
+    cursor: pointer;
+    font-size: 1rem;
+
+}
+
+.List {
+    font-size: 1rem;
+}
+
+.B-input {
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    width: 35rem;
+    outline: none;
+}
+
+.C-camera {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 3rem;
+    height: 2.5rem;
+    cursor: pointer;
+    color: gray
+}
+
+.D-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #febd68;
+    width: 3rem;
+    height: 2.5rem;
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    cursor: pointer;
+}
+
+.Search-bar {
+    font-size: 1.2rem;
+}
+
+.Camera-bar {
+    font-size: 1.1rem;
+}
+
+/* ------Box-4------- */
+.wada {
+    width: 6rem;
+    height: 3.2rem;
+    margin-left: 1.1rem;
+}
+
+.Box-4 {
+    display: flex;
+    cursor: pointer;
+    background-image: url(img/A-Flag.jpg);
+    background-size: cover;
+    width: 1.5rem;
+    height: 1rem;
+    margin-top: 1.3rem;
+
+}
+
+.Flag-icon {
+
+    color: rgb(220, 98, 32);
+    cursor: pointer;
+    padding-left: 1rem;
+    padding-top: 1rem;
+
+}
+
+.EN {
+    color: white;
+    padding-left: .8rem;
+}
+
+.Down-Arrow {
+    color: #ccc;
+    padding-left: .2rem;
+    padding-top: .2rem;
+}
+
+/* ---------Box-5--------- */
+.E-wada {
+    width: 10rem;
+    height: 3.2rem;
+}
+
+.Box-5 {
+    width: 10rem;
+    height: 3.2rem;
+    cursor: pointer;
+    line-height: 1rem;
+}
+
+.Row-1 {
+    color: whitesmoke;
+    padding-top: .5rem;
+    font-size: .84rem;
+}
+
+.Row-2 {
+    display: flex;
+    color: white;
+    font-size: .95rem;
+}
+
+.Row-logo {
+    padding-left: .3rem;
+    color: #ccc;
+}
+
+/* ---------Box-6--------- */
+.Ex-wada {
+    width: 5rem;
+    height: 3.2rem;
+}
+
+.Box-6 {
+    width: 5rem;
+    height: 3.2rem;
+    line-height: 1rem;
+    cursor: pointer;
+}
+
+.Return {
+    color: whitesmoke;
+    padding-top: .5rem;
+    font-size: .84rem;
+}
+
+.Order {
+    color: white;
+    font-size: .95rem;
+}
+
+/* ---------Box-7--------- */
+.Xx-wada {
+    width: 5rem;
+    height: 3.2rem;
+    cursor: pointer;
+}
+
+.Box-7 {
+    width: 5rem;
+    height: 3.2rem;
+}
+
+.Cart-logo {
+    color: white;
+    padding-top: .5rem;
+    display: flex;
+}
+
+.BIG {
+    font-size: 2rem;
+    color: orange;
+    padding-top: .2rem;
+}
+
+.F-size {
+    color: white;
+    font-size: 1rem;
+    padding-top: 1.1rem;
+    padding-left: .2rem;
+}
+
+/* -------box-8--------- */
+.nav-2 {
+    display: flex;
+    align-items: center;
+    width: auto;
+    height: 2.4rem;
+    background-color: #232f3e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sprite {
+    display: flex;
+    color: white;
+    padding: 0rem 1.5rem;
+    cursor: pointer;
+}
+.bars{
+    padding-right: 1rem;
+    padding-top: .1rem;
+}
+.pa {
+    padding-left: .3rem;
+}
+
+.Box-9 {
+    display: flex;
+    align-items: center;
+}
+
+.color {
+    color: #fff;
+    padding-right: .8rem;
+    font-size: .9rem;
+    cursor: pointer;
+}
+
+/* -------Hero-area------- */
+.Hero-Area {
+    background-image: url(img/hero_image.jpg);
+    background-size: cover;
+    width: auto;
+    height: 100vh;
+
+}
+
+/* ------shopping-Area--Row-1------ */
+.Shopping-Items-Row-1 {
+    display: flex;
+    width: auto;
+    justify-content: space-evenly;
+    padding-top: 41vh;
+  }
+.Shopping-Items {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: auto;
+    height: 100vh;
+    padding-top: 20vh;
+}
+
+.w25 {
+    background-color: white;
+    width: 23%;
+    height: 57vh;
+    cursor: pointer;
+}
+
+.Box-padding-left {
+    padding: 0vw 1.4vw;
+}
+
+h2 {
+    padding: 3vh 0vh 2vh 0vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vw;
+}
+
+.b2 {
+    color: #007185;
+    cursor: pointer;
+    position: relative;
+    top: 3vh;
+}
+
+.Image-1 {
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-2 {
+    background-image: url(img/box2-image.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-3 {
+    background-image: url(img/box3_image.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-4 {
+    background-image: url(img/box4_image.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+/* Inside-images-flex-1 */
+.flex-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    height: 20vh;
+}
+
+.flex-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    height: 20vh;
+}
+
+.inside-1 {
+    background-image: url(img/Headset.jpg);
+    background-size: cover;
+    width: 18vw;
+    height: 16vh
+}
+
+.inside-2 {
+    background-image: url(img/Keyboard.jpg);
+    background-size: cover;
+    width: 10vw;
+    height: 12vh;
+    width: 19vw;
+    height: 16vh;
+}
+
+.inside-3 {
+    background-image: url(img/Mouse.jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 17vh;
+}
+
+.inside-4 {
+    background-image: url(img/Chair.jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 17vh;
+}
+
+/* Shopping-Area--Row-2 */
+
+.Shopping-Items-row-2 {
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    height: 59vh;
+    padding-top: 2vh;
+    background-color: #d7a2cc;
+    ;
+}
+
+.w25-row-2 {
+    background-color: white;
+    width: 23%;
+    height: 57vh;
+    cursor: pointer;
+}
+
+.Box-padding-left-row-2 {
+    padding: 0vw 1.4vw;
+}
+
+h2 {
+    padding: 3vh 0vh 2vh 0vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vw;
+}
+
+.b2-row-2 {
+    color: #007185;
+    cursor: pointer;
+    position: relative;
+    top: 3vh;
+}
+
+.Image-1-row-2 {
+    width: 20vw;
+    height: 40vh;
+}
+
+
+.Image-2-row-2 {
+    background-image: url(img/mic.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-3-row-2 {
+    background-image: url(img/watch.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-4-row-2 {
+    background-image: url(img/gaket.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+/* Inside-images-flex-1 */
+.flex-1-row-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    height: 20vh;
+}
+
+.flex-2-row-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    height: 20vh;
+}
+
+.inside-1-row-2 {
+    background-image: url(img/shirt.jpg);
+    background-size: cover;
+    width: 18vw;
+    height: 16vh
+}
+
+.inside-2-row-2 {
+    background-image: url(img/cap.jpg);
+    background-size: cover;
+    width: 10vw;
+    height: 12vh;
+    width: 19vw;
+    height: 16vh;
+}
+
+.inside-3-row-2 {
+    background-image: url(img/spider.jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 17vh;
+}
+
+.inside-4-row-2 {
+    background-image: url(img/mug.jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 17vh;
+}
+
+/* Shopping-Area--Row-3 */
+
+.Shopping-Items-row-3 {
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    height: 59vh;
+    padding-top: 2vh;
+    background-color: #d7a2cc;
+    ;
+}
+
+.w25-row-3 {
+    background-color: white;
+    width: 23%;
+    height: 57vh;
+    cursor: pointer;
+}
+
+.Box-padding-left-row-3 {
+    padding: 0vw 1.4vw;
+}
+
+h2 {
+    padding: 3vh 0vh 2vh 0vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vw;
+}
+
+.b2-row-3 {
+    color: #007185;
+    cursor: pointer;
+    position: relative;
+    top: 3vh;
+}
+
+.Image-1-row-3 {
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-2-row-3 {
+    background-image: url(img/balo.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-3-row-3 {
+    background-image: url(img/cotton.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-4-row-3 {
+    background-image: url(img/box8_image.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+/* Inside-images-flex-1 */
+.flex-1-row-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    height: 20vh;
+}
+
+.flex-2-row-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    height: 20vh;
+}
+
+.inside-1-row-3 {
+    background-image: url(img/p-1.jpg);
+    background-size: cover;
+    width: 18vw;
+    height: 16vh
+}
+
+.inside-2-row-3 {
+    background-image: url(img/p-2.jpg);
+    background-size: cover;
+    width: 10vw;
+    height: 12vh;
+    width: 19vw;
+    height: 16vh;
+}
+
+.inside-3-row-3 {
+    background-image: url(img/p-3.jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 17vh;
+}
+
+.inside-4-row-3 {
+    background-image: url(img/p-4.jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 17vh;
+}
+
+/* Shopping-Area--Row-4 */
+
+.Shopping-Items-row-4 {
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    height: 61vh;
+    padding-top: 2vh;
+    background-color: #d7a2cc;
+    ;
+}
+
+.w25-row-4 {
+    background-color: white;
+    width: 23%;
+    height: 57vh;
+    cursor: pointer;
+}
+
+.Box-padding-left-row-4 {
+    padding: 0vw 1.4vw;
+}
+
+h2 {
+    padding: 3vh 0vh 2vh 0vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vw;
+}
+
+.b2-row-4 {
+    color: #007185;
+    cursor: pointer;
+    position: relative;
+    top: 3vh;
+}
+
+.Image-1-row-4 {
+    background-image: url(img/box6_image.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-2-row-4 {
+    background-image: url(img/remote_.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-3-row-4 {
+    background-image: url(img/shells.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+.Image-4-row-4 {
+    background-image: url(img/box5_image.jpg);
+    background-size: cover;
+    width: 20vw;
+    height: 40vh;
+}
+
+/* .footer-upper-Sign-in-*/
+.footer-upper {
+    background-color: white;
+    width: auto;
+    height: 32.5vh;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.sign-in {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: 15vh;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.see {
+    padding-bottom: .9vh;
+    font-size: .9vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0f1111cf;
+}
+
+.yelow {
+    border-radius: .4vw;
+    border: 2px solid rgb(228, 150, 34);
+}
+
+.sign-in-border {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fbac16;
+    width: 18vw;
+    height: 7vh;
+    border-radius: .3vw;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+.New {
+    padding-top: .9vh;
+    font-size: .8vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0f1111cf;
+}
+
+.inline {
+    display: flex;
+}
+
+.Start {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: .9vh;
+    font-size: .8vw;
+    color: #007185;
+    cursor: pointer;
+}
+
+hr {
+    color: #eeeef25c
+}
+
+/*----Back-to-Top----*/
+.Back-to-Top {
+    width: auto;
+    height: 3.5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #37475A;
+    color: white;
+    cursor: pointer;
+    font-size: .9vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*----footer-part-1-----*/
+.part_1 {
+    width: auto;
+    height: 30rem; 
+    background-color: #232f3e;
+}
+
+.inner-Horizontal{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 11rem 0rem 11rem;
+    color: white;
+}
+.zx {
+    padding-bottom: .5rem;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.vc {
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ss {
+    padding-top: 1rem;
+}
+
+.F-a {
+    font-size: 1rem;
+    width: auto;
+    height: auto;
+}
+.F-1-item {
+    color: #DDD;
+    cursor: pointer;
+}
+.hr{
+  color :#eeeef213;
+}
+/* ------footer-part-1-Amazon------ */
+.Amazon-part{
+    width: auto;
+    height: 6rem;
+}
+.main-Amazon-border{
+  padding-left: 18rem;
+  padding-right: 26rem;
+  display: flex;
+  justify-content: space-evenly;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .9rem
+}
+.Amazon-border{
+    width: 10rem;
+    height: 6.8rem;
+    display: flex;
+}
+.Amazon-pic{
+   
+    background-image: url(img/amazon_logo.png);
+    background-size: cover;
+    width: 7rem;
+    height: 4rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+.English-Border{
+    color: #DDD;
+    margin-top: 1.6rem;
+    border: 1px solid #DDDDDD70;
+    width: 8.5rem;
+    height: 2rem;
+    border-radius: .1rem;
+    cursor: pointer;
+}
+.E-logo{
+    padding-top: .5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 8.5rem;
+}
+.english{
+    padding-left: .5rem
+}
+.USD-Border{
+    color: #DDD;
+    margin-top: 1.6rem;
+    border: 1px solid #DDDDDD70;
+    width: 11.1rem;
+    height: 2rem;
+    border-radius: .1rem;
+    cursor: pointer;
+}
+.USD{
+    padding-top: .5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 11.1rem;
+}
+.united_Border{
+    color: #DDD;
+    margin-top: 1.6rem;
+    border: 1px solid #DDDDDD70;
+    width: 8.5rem;
+    height: 2rem;
+    border-radius: .1rem;
+    cursor: pointer;
+}
+.Flexible{
+    padding-top: .5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 8.5rem;
+}
+.U-Flag{
+    background-image: url(img/A-Flag.jpg);
+    background-size: cover;
+    width: 1.5rem;
+    height: 1rem;
+}
+/*-----------footer-part-2 ----------*/
+.part_2 {
+    width: auto;
+    height: 27rem;
+    background-color: #091017fa;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Bottam{
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+  height: 18rem;
+  padding: 2rem 12rem 3rem 12rem;
+}
+.Upper-1{
+color: #DDD;
+font-size: .8rem;
+padding-bottom: 1rem;
+cursor: pointer;
+}
+.Lower-1{
+color: #999;
+font-size: .71rem;
+cursor: pointer;
+line-height: .9rem;
+}
+/* endler  */
+.cover{
+    width: auto;
+  height: 4rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .8rem;
+  color: #DDD;
+  line-height: .2rem;
+}
+.Ender{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+  /* height: 11vh; */
+  height: 2.5rem;
+.S1{
+    cursor: pointer;
+}
+}
+.Ender-logo{
+    background-image: url(img/Ender-logo.jpg);
+    background-size: cover;
+    width: 1.6rem;
+  height: .9rem;
+  margin-left: .6rem;
+  cursor: pointer;
+}
+.next{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}

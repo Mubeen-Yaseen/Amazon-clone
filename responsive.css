@@ -1,0 +1,1835 @@
+@media (max-width:1320px) {
+    html {
+        font-size: 90%;
+    }
+
+    .Hero-Area {
+        height: 80vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 90vh;
+        padding-top: 35vh;
+    }
+
+    .responsive-img-css {
+        height: 34vh;
+    }
+
+    .responsive-flex-css {
+        height: 18vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 11.5vh;
+    }
+
+    .w25 {
+        height: 47vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 36vh;
+        height: 47vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 7vh;
+        height: 41vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 10vh;
+        height: 44vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 7vh;
+        height: 52vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 25vh;
+    }
+
+    .sign-in {
+        height: 13vh;
+    }
+
+    .sign-in-border {
+        height: 1vh;
+    }
+
+    .see {
+        padding-bottom: .2vh;
+    }
+    .pop-up{
+        font-size: 1vh;
+    }
+
+    .New {
+        padding-top: .2vh;
+    }
+
+    .Start {
+        padding-top: .2vh;
+    }
+
+    .part_1 {
+        height: 31rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 105rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+}
+
+@media (max-width:1190px) {
+    html {
+        font-size: 80%;
+    }
+
+    .Hero-Area {
+        height: 70vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 80vh;
+        padding-top: 31vh;
+    }
+
+    .responsive-img-css {
+        height: 30vh;
+    }
+
+    .responsive-flex-css {
+        height: 17vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 10vh;
+    }
+
+    .w25 {
+        height: 42vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 31vh;
+        height: 42vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 7vh;
+        height: 38vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 8vh;
+        height: 42vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 4vh;
+        height: 46vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 24vh;
+    }
+
+    .sign-in {
+        height: 11vh;
+    }
+
+    .sign-in-border {
+        height: 1vh;
+    }
+
+    .see {
+        padding-bottom: .2vh;
+    }
+    .pop-up{
+        font-size: 1.2rem;
+    }
+
+    .New {
+        padding-top: .2vh;
+    }
+
+    .Start {
+        padding-top: .2vh;
+    }
+
+    .part_1 {
+        height: 32rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 105rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+}
+
+@media (max-width:1070px) {
+    html {
+        font-size: 70%;
+    }
+
+    .Hero-Area {
+        height: 65vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 75vh;
+        padding-top: 29vh;
+    }
+
+    .responsive-img-css {
+        height: 28vh;
+    }
+
+    .responsive-flex-css {
+        height: 15vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 9vh;
+    }
+
+    .w25 {
+        height: 38vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 29vh;
+        height: 38vh;
+    }
+
+    .Shopping-Items-row-2{
+        padding-top: 7vh;
+        height: 35vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 8vh;
+        height: 35vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 8vh;
+        height: 43vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 20vh;
+    }
+
+    .sign-in {
+        height: 10vh;
+    }
+
+    .sign-in-border {
+        height: 2vh;
+    }
+
+    .see {
+        padding-bottom: 1.3vh;
+    }
+    .pop-up{
+        font-size: 1.2rem;
+    }
+
+    .New {
+        padding-top: 1.2vh;
+    }
+    .pop-down{
+        font-size: .9rem;
+    }
+
+    .Start {
+        padding-top: 1.1vh;
+    }
+    .pop-in{
+        font-size: 1rem;
+    }
+
+    .part_1 {
+        height: 31rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 105rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+}
+
+@media (max-width:935px) {
+    html {
+        font-size: 65%;
+    }
+
+    .Hero-Area {
+        height: 60vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 70vh;
+        padding-top: 27vh;
+    }
+
+    .responsive-img-css {
+        height: 23vh;
+    }
+
+    .responsive-flex-css {
+        height: 12vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 8vh;
+    }
+
+    .w25 {
+        height: 34vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 27vh;
+        height: 34vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 5vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 32vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 32vh;
+        height: 38vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 20vh;
+    }
+
+    .sign-in {
+        height: 9vh;
+    }
+
+    .sign-in-border {
+        height: 2.5vh;
+    }
+
+    .see {
+        padding-bottom: 1.3vh;
+    }
+    .pop-up{
+        font-size: 1.1rem;
+    }
+
+    .New {
+        padding-top: 1.2vh;
+    }
+    .pop-down{
+        font-size: 1.1rem;
+    }
+
+    .Start {
+        padding-top: 1vh;
+    }
+    .pop-in{
+        font-size: 1.1rem;
+    }
+
+    .part_1 {
+        height: 31rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 105rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+
+}
+
+@media (max-width:870px) {
+    html {
+        font-size: 60%;
+    }
+
+    .Z-Select {
+        width: 4rem;
+        font-size: 1.4rem;
+    }
+
+    .Hero-Area {
+        height: 55vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 65vh;
+        padding-top: 24vh;
+    }
+
+    .responsive-img-css {
+        height: 21vh;
+    }
+
+    .responsive-flex-css {
+        height: 10.5vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 7.5vh;
+
+    }
+
+    h2 {
+        padding: 1.5vh 0vh 1.2vh 0vh;
+    }
+
+    .w25 {
+        height: 30vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 25vh;
+        height: 30vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 4vh;
+        height: 30vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 4vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 28vh;
+        height: 35vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 19vh;
+    }
+
+    .sign-in {
+        height: 9vh;
+    }
+}
+
+
+
+.sign-in-border {
+    height: 2.5vh;
+}
+
+.see {
+    padding-bottom: 1.2vh;
+}.pop-up {
+    font-size: 1.3rem;
+}
+
+.New {
+    padding-top: 1vh;
+}
+.pop-down {
+    font-size: 1rem;
+}
+
+.Start {
+    padding-top: .9vh;
+}
+.pop-in {
+    font-size: 1.1rem;
+}
+
+.part_1 {
+    height: 32rem;
+}
+
+.Horizontal {
+    height: 30rem;
+    display: flex;
+    justify-content: space-evenly;
+    width: 105rem;
+}
+
+.part_2 {
+    height: 30rem;
+}
+
+
+@media (max-width:810px) {
+    html {
+        font-size: 55%;
+    }
+
+    .Hero-Area {
+        height: 50vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 60vh;
+        padding-top: 22vh;
+    }
+
+    .responsive-img-css {
+        height: 21vh;
+    }
+
+    .responsive-flex-css {
+        height: 11vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 5.5vh;
+
+    }
+
+    h2 {
+        padding: 1.5vh 0vh 1.2vh 0vh;
+    }
+
+    .w25 {
+        height: 30vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 22vh;
+        height: 30vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 6vh;
+        height: 26vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 8vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 28vh;
+        height: 34vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 17vh;
+    }
+
+    .sign-in {
+        height: 8vh;
+    }
+
+    .sign-in-border {
+        height: 2vh;
+    }
+
+    .see {
+        padding-bottom: .7vh;
+    }
+
+    .pop-up {
+        font-size: 1.3rem;
+    }
+
+    .New {
+        padding-top: .5vh;
+    }
+
+    .pop-down {
+        font-size: 1rem;
+    }
+
+    .Start {
+        padding-top: .5vh;
+    }
+
+    .pop-in {
+        font-size: 1.1rem;
+    }
+
+    .part_1 {
+        height: 32rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 105rem;
+    }
+
+    .part_2 {
+        height: 30;
+    }
+
+}
+
+@media (max-width:740px) {
+    html {
+        font-size: 50%;
+    }
+
+    .Hero-Area {
+        height: 45vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 55vh;
+        padding-top: 20vh;
+    }
+
+    .responsive-img-css {
+        height: 19vh;
+    }
+
+    .responsive-flex-css {
+        height: 10vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 6.5vh;
+    }
+
+    h2 {
+        padding: 1.5vh 0vh 1.2vh 0vh;
+    }
+
+    .w25 {
+        height: 27vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 20vh;
+        height: 27vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 6vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 25vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 25vh;
+        height: 31vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 16vh;
+    }
+
+    .sign-in {
+        height: 8vh;
+    }
+
+    .sign-in-border {
+        height: 1vh;
+    }
+
+    .see {
+        padding-bottom: .5vh;
+    }
+
+    .pop-up {
+        font-size: 1.2rem;
+    }
+
+    .New {
+        padding-top: .4vh;
+    }
+
+    .pop-down {
+        font-size: 1rem;
+    }
+
+    .Start {
+        padding-top: .4vh;
+    }
+
+    .pop-in {
+        font-size: 1.1rem;
+    }
+
+    .part_1 {
+        height: 32rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 105rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+}
+
+@media (max-width:670px) {
+    html {
+        font-size: 45%;
+    }
+
+    .Hero-Area {
+        height: 40vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 52vh;
+        padding-top: 18vh;
+    }
+
+    .responsive-img-css {
+        height: 17vh;
+    }
+
+    .responsive-flex-css {
+        height: 9vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 5.5vh;
+    }
+
+    h2 {
+        padding: 1.5vh 0vh 1.2vh 0vh;
+    }
+
+    .w25 {
+        height: 25vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 17vh;
+        height: 24vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 5vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 22vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 22vh;
+        height: 28vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 15.5vh;
+    }
+
+    .sign-in {
+        height: 7vh;
+    }
+
+    .sign-in-border {
+        height: 1vh;
+    }
+
+    .see {
+        padding-bottom: .2vh;
+    }
+
+    .New {
+        padding-top: .2vh;
+    }
+
+    .Start {
+        padding-top: .2vh;
+    }
+
+    .part_1 {
+        height: 34rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 105rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+}
+
+@media (max-width:605px) {
+    html {
+        font-size: 40%;
+    }
+
+    .Hero-Area {
+        height: 35vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 49vh;
+        padding-top: 16vh;
+    }
+
+    .responsive-img-css {
+        height: 15vh;
+    }
+
+    .responsive-flex-css {
+        height: 7vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 5vh;
+    }
+
+    h2 {
+        padding: 1.5vh 0vh 1.2vh 0vh;
+    }
+
+    .w25 {
+        height: 22vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 15vh;
+        height: 22vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 6vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 20vh;
+        height: 7vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 19vh;
+        height: 26vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 14vh;
+    }
+
+    .sign-in {
+        height: 7vh;
+    }
+
+    .sign-in-border {
+        height: 1vh;
+    }
+
+    .see {
+        padding-bottom: .2vh;
+    }
+
+    .New {
+        padding-top: .2vh;
+    }
+
+    .Start {
+        padding-top: .2vh;
+    }
+
+    .part_1 {
+        height: 32rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 105rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+}
+
+@media (max-width:540px) {
+    html {
+        font-size: 35%;
+    }
+
+    .Box-3 {
+        height: 2.5rem;
+    }
+
+    .Hero-Area {
+        height: 30vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 45vh;
+        padding-top: 13.5vh;
+    }
+
+    .responsive-img-css {
+        height: 14vh;
+    }
+
+    .responsive-flex-css {
+        height: 7.5vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 4.5vh;
+    }
+
+    h2 {
+        padding: 1vh 0vh 1vh 0vh;
+    }
+
+    .w25 {
+        height: 20vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 13vh;
+        height: 20vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 6vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 17vh;
+        height: 20vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 3vh;
+        height: 23vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 12vh;
+    }
+
+    .sign-in {
+        height: 6vh;
+    }
+
+    .sign-in-border {
+        height: 1vh;
+    }
+
+    .see {
+        padding-bottom: .2vh;
+    }
+
+    .New {
+        padding-top: .2vh;
+    }
+
+    .Start {
+        padding-top: .2vh;
+    }
+
+    .part_1 {
+        height: 32rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 105rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+}
+
+@media (max-width:470px) {
+    html {
+        font-size: 30%;
+    }
+
+    .Box-3 {
+        height: 2.5rem;
+    }
+
+    .Z-Select {
+        width: 6rem;
+        font-size: 1.4rem;
+    }
+
+    .Hero-Area {
+        height: 25vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 40vh;
+        padding-top: 11vh;
+    }
+
+    .responsive-img-css {
+        height: 12vh;
+    }
+
+    .responsive-flex-css {
+        height: 6vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 4vh;
+    }
+
+    h2 {
+        padding: 1vh 0vh 1vh 0vh;
+    }
+
+    .w25 {
+        height: 17vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 11vh;
+        height: 17vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 6vh;
+        height: 17vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 3vh;
+        height: 17vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 3vh;
+        height: 20vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 11vh;
+    }
+
+    .sign-in {
+        height: 6vh;
+    }
+
+    .sign-in-border {
+        height: 1vh;
+    }
+
+    .see {
+        padding-bottom: .2vh;
+    }
+
+    .New {
+        padding-top: .2vh;
+    }
+
+    .Start {
+        padding-top: .2vh;
+    }
+
+    .part_1 {
+        height: 32rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 95rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+}
+
+@media (max-width:415px) {
+    html {
+        font-size: 25%;
+    }
+
+    .Box-3 {
+        height: 2.5rem;
+    }
+
+    .Hero-Area {
+        height: 20vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 36vh;
+        padding-top: 9.5vh;
+    }
+
+    .responsive-img-css {
+        height: 10vh;
+    }
+
+    .responsive-flex-css {
+        height: 6vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 3.5vh;
+    }
+
+    h2 {
+        padding: 1vh 0vh 1vh 0vh;
+    }
+
+    .w25 {
+        height: 15vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 9vh;
+        height: 15vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 6vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 11vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 11vh;
+        height: 18vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 11vh;
+    }
+
+    .sign-in {
+        height: 6vh;
+    }
+
+    .sign-in-border {
+        height: 1vh;
+    }
+
+    .see {
+        padding-bottom: .2vh;
+    }
+
+    .New {
+        padding-top: .2vh;
+    }
+
+    .Start {
+        padding-top: .2vh;
+    }
+
+    .part_1 {
+        height: 36rem;
+    }
+
+    .Horizontal {
+        height: 30rem;
+        display: flex;
+        justify-content: space-evenly;
+        width: 105rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+
+}
+
+@media (max-width:345px) {
+    html {
+        font-size: 20%;
+    }
+
+    .Hero-Area {
+        height: 18vh;
+        width: auto;
+    }
+
+    .responsive-css {
+        width: auto;
+        height: 33vh;
+        padding-top: 8vh;
+    }
+
+    .responsive-img-css {
+        height: 9vh;
+    }
+
+    .responsive-flex-css {
+        height: 5vh;
+    }
+
+    .responsive-inside-css {
+        width: 10vw;
+        height: 3vh;
+    }
+
+    h2 {
+        padding: 1vh 0vh 1vh 0vh;
+    }
+
+    .w25 {
+        height: 14vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 8vh;
+        height: 13vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 6vh;
+        height: 8vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 8vh;
+        height: 8vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 8vh;
+        height: 16vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 10vh;
+    }
+
+    .sign-in {
+        height: 5vh;
+    }
+
+    .sign-in-border {
+        height: 1vh;
+    }
+
+    .see {
+        padding-bottom: .2vh;
+    }
+
+    .New {
+        padding-top: .2vh;
+    }
+
+    .Start {
+        padding-top: .2vh;
+    }
+
+    .part_1 {
+        height: 37rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+
+}
+
+@media (max-width:280px) {
+    html {
+        font-size: 15%;
+    }
+
+    .Hero-Area {
+        height: 15vh;
+        width: auto;
+    }
+
+    .responsive-img-css {
+        height: 8vh;
+    }
+
+    .responsive-flex-css {
+        height: 4.5vh;
+    }
+
+    .responsive-inside-css {
+        height: 2.5vh;
+        width: 10vw;
+    }
+
+    h2 {
+        padding: 1vh 0vh 1vh 0vh;
+    }
+
+    .w25 {
+        height: 13vh;
+    }
+
+    .Shopping-Items-Row-1 {
+        padding-top: 7vh;
+        height: 12vh;
+    }
+
+    .Shopping-Items-row-2 {
+        padding-top: 6vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-3 {
+        padding-top: 8vh;
+        height: 6vh;
+    }
+
+    .Shopping-Items-row-4 {
+        padding-top: 8vh;
+        height: 14vh;
+    }
+
+    .b2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-2 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-3 {
+        position: relative;
+        top: 1vh;
+    }
+
+    .b2-row-4 {
+        position: relative;
+        top: 1vh;
+    }
+
+    /* footer-upper part  */
+    .footer-upper {
+        height: 9vh;
+    }
+
+    .sign-in {
+        height: 5vh;
+    }
+
+    .sign-in-border {
+        height: 1vh;
+    }
+
+    .see {
+        padding-bottom: .2vh;
+    }
+
+    .New {
+        padding-top: .2vh;
+    }
+
+    .Start {
+        padding-top: .2vh;
+    }
+
+    .part_1 {
+        height: 39rem;
+    }
+
+    .part_2 {
+        height: 30rem;
+    }
+
+}
+/* Responsive Dropdown */
+@media (max-width:360px) {
+
+}
+@media (max-width:370px) {
+
+}
+@media (max-width:380px) {
+
+}
+@media (max-width:390px) {
+
+}
+@media (max-width:400px) {
+
+}
+@media (max-width:410px) {
+
+}
+@media (max-width:420px) {
+
+}
+@media (max-width:430px) {
+
+}
+@media (max-width:440px) {
+
+}
+@media (max-width:450px) {
+
+}
+@media (max-width:460px) {
+
+}
+@media (max-width:470px) {
+
+}
+@media (max-width:480px) {
+
+}
+@media (max-width:490px) {
+
+}
+@media (max-width:500px) {
+
+}
+@media (max-width:510px) {
+
+}
+@media (max-width:520px) {
+
+}
+@media (max-width:530px) {
+
+}
+@media (max-width:540px) {
+
+}
+@media (max-width:550px) {
+
+}
+@media (max-width:560px) {
+
+}
+@media (max-width:570px) {
+
+}
+@media (max-width:580px) {
+
+}
+@media (max-width:590px) {
+
+}
+@media (max-width:600px) {
+
+}
+@media (max-width:610px) {
+
+}
+@media (max-width:620px) {
+
+}
+@media (max-width:630px) {
+
+}
+@media (max-width:640px) {
+
+}
+@media (max-width:650px) {
+
+}
+@media (max-width:660px) {
+
+}
+@media (max-width:670px) {
+
+}
+@media (max-width:680px) {
+
+}
+@media (max-width:690px) {
+
+}
+@media (max-width:700px) {
+
+}
+@media (max-width:710px) {
+
+}
+@media (max-width:720px) {
+
+}
+@media (max-width:730px) {
+
+}
+@media (max-width:740px) {
+
+}
+@media (max-width:750px) {
+
+}
